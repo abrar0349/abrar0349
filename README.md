@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">My name is Abrar khan and I'm a Front-end Developer, from Pakistan</p>
+<p align="left">My name is Abrar Khan and I'm a Front-end Developer from Pakistan.</p>
 
 ###
 
-<h2 align="left">I have strong skills in core web development languages—HTML, CSS, and JavaScript—as well as frameworks like React.js and Tailwind CSS, and I possess foundational knowledge of Python.</h2>
+<h2 align="left">I have strong skills in core web development languages—HTML, CSS, and JavaScript—as well as frameworks like React.js and Tailwind CSS. I also possess foundational knowledge of Python.</h2>
 
 ###
 
-<p align="left">📚 I'm currently learning AI<br>🎯 Goals: Create Own Company</p>
+<p align="left">📚 I'm currently learning AI<br>🎯 Goals: Create My Own Company</p>
 
 ###
 
@@ -36,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 </div>
 
 ###
