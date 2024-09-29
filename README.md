@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I have strong skills in core web development languages—HTML, CSS, and JavaScript—as well as frameworks like React.js and Tailwind CSS. I also possess foundational knowledge of Python.</h2>
+<h2 align="left">I have strong skills in core web development languages—HTML, CSS, and JavaScript—as well as frameworks and libraries like React.js and Tailwind CSS. I also possess foundational knowledge of Python.</h2>
 
 ###
 
