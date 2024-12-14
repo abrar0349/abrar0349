@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">I have strong skills in core web development languages—HTML, CSS, and JavaScript—as well as frameworks and libraries like React.js and Tailwind CSS. I also possess foundational knowledge of Python.</h2>
+<h2 align="left">I have strong expertise in core web development technologies such as HTML, CSS, and JavaScript, along with experience in modern frameworks and libraries like React.js, Vite, Bootstrap, Tailwind CSS, Redux, and Redux Toolkit for advanced state management. Additionally, I have a foundational understanding of Python</h2>
 
 ###
 
-<p align="left">📚 I'm currently learning AI<br>🎯 Goals: Create My Own Software House</p>
+<p align="left">📚 I'm currently learning Backend development to expand my skills and knowledge in server-side technologies.<br>🎯 Goals: Create My Own Software House</p>
 
 ###
 
@@ -29,8 +29,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="100" alt="tailwindcss logo"  />
+  <img width="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
