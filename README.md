@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Backend development to expand my skills and knowledge in server-side technologies.<br>🎯 Goals: Create My Own Software House</p>
+<p align="left">📚 I'm currently learning Backend development to expand my skills and knowledge in server-side technologies.<br>🎯 Goals: Create My Own Software House.<br>🎓 Currently, I am focused on learning backend development, starting with Express.js, to strengthen my skills in server-side technologies.</p>
 
 ###
 
